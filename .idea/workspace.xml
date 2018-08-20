@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2acd3a0c-3546-4bb5-911a-222c0e73277c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/文本格式化/长引用+短引用.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/文本格式化/杂.md" beforeDir="false" afterPath="$PROJECT_DIR$/文本格式化/杂.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/杂.md" beforeDir="false" afterPath="$PROJECT_DIR$/格式小结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/格式小结.md" beforeDir="false" afterPath="$PROJECT_DIR$/格式小结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/格式小记.md" beforeDir="false" afterPath="$PROJECT_DIR$/格式小记.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="长引用+短引用.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="长引用+短引用.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/文本格式化/长引用+短引用.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -94,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="删除线和下划线.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="删除线和下划线.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/文本格式化/删除线和下划线.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="240">
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -516,17 +514,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/文本格式化/删除线和下划线.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/文本格式化/长引用+短引用.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="7" lean-forward="true" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/文本格式化/删除线和下划线.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
